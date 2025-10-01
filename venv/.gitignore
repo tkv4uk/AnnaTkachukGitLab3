@@ -1,6 +1,4 @@
 # created by virtualenv automatically
-*.log
-build/
-node_modules/
-.idea/
-my_notes.txt
+*.txt
+
+
